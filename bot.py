@@ -1,5 +1,5 @@
 # encoding: utf-8
-bot_token = "<BOT-TOKEN>"
+bot_token = "<7411705738:AAErQhOQO8mdzmYwtCNz5tFJsh-fwi3kKtg>"
 
 #LIBRERIAS RESPONDER
 from telegram.ext import Updater #ENVIAR MENSAJES RESPONDIENDO
